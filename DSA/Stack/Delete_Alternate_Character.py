@@ -1,4 +1,4 @@
-
+#Delete Second Character From Given String
 def delete_char(str):
     return str[::2]
 

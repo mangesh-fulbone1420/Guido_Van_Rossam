@@ -10,5 +10,5 @@ def palindrome_num(n):
     else:
         return False
 
-print(palindrome_num(141))
+print(palindrome_num(1221))
 

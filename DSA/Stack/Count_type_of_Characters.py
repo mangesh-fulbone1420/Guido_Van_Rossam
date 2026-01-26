@@ -1,3 +1,4 @@
+#count the character
 class Solution:
     def count(self, s):
         upper_case = 0

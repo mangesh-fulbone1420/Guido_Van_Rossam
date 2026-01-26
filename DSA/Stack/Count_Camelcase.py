@@ -1,4 +1,4 @@
-
+#count Camelcase string 
 class Solution:
     def count(self , s):
         camel_count =0
@@ -9,7 +9,7 @@ class Solution:
                 continue
         return camel_count 
     
-s="shree ganesh"
+s="Shree Ganesh"
 obj=Solution()
 res = Solution.count(obj,s)
 print("Count of Camelcase Characters is : ",res)    

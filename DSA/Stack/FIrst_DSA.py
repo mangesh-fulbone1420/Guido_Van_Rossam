@@ -49,9 +49,7 @@ num3 = int(input("Enter The Natural Number : "))
 result = natural_sum(num3)  
 print("The sum of the first ", num3 ," natural Number is : ", result)  
 
-#Using 
-
-
+#Using
 
 # Sum of n th natural number using Dynamic Programming
 num4 = int(input("Enter The Natural Number : "))
