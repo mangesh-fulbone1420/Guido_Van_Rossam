@@ -1,3 +1,3 @@
 def firstNumber(n):
-    print(n[::-0])
+    print(n)
 firstNumber(102)    
