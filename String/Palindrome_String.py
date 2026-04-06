@@ -18,7 +18,7 @@ def palindrome_string(s):
     for i in s:
         rev = i + rev
 
-    if s == rev:
+    if s.lower() == rev.lower():
         print("String is Palindrome")
     else:
         print("String is Not Palindrome")
