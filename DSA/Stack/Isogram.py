@@ -1,4 +1,4 @@
-
+#to Find isogram
 def isogram(s):
     res={}
     for i in s:
